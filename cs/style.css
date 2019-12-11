@@ -278,7 +278,7 @@ body{
     }
 
 	@media screen and (max-width: 500px){
-		.col-sm-3{
+		.sideOptions{
 			display:none;
 		}
 		.display-1{
